@@ -21,7 +21,7 @@ function App() {
             <div className="form-group">
                 <label for="email">email </label>
                 <div className="input-group">
-                    <input type="email" id="email" name="email" placeholder=" seu email ou nome de usuario" required
+                    <input type="email" id="email" name="email" placeholder=" E-mail " required
                         autofocus/>
                 </div>
             </div>
