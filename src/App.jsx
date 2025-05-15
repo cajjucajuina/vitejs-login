@@ -6,10 +6,16 @@ function App() {
 
   return (
     <>
-   
+   <main className='login-box'>
         <header >
-            <h1>Bem-vindo</h1>
-            <p className="subtitle">entre com suas crendenciais para acessar</p>
+        <img
+    src="https://i.pinimg.com/originals/b1/98/19/b19819237f2cc0a1e51b611abb77736d.gif"
+    alt="Decorativo"
+    className="decorative-gif"
+  />
+            <h1>Login</h1>
+            <p >Digite e-mail e senha: 
+            </p>
         </header>
         <form action="/login" method="POST">
             <div className="form-group">
@@ -47,7 +53,7 @@ function App() {
         
             <a href="/cadastro">Criar conta</a>
         
-  
+  </main>
     </> )
   }
 

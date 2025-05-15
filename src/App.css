@@ -18,3 +18,32 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.login-box {
+  background-color: rgba(47, 45, 44, 0.9); /* laranja com transparência */
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  max-width: 350px;
+  width: 100%;
+  color: #fff;
+    position: relative;
+  
+}
+.decorative-gif {
+  
+    position: absolute;
+    top: 0;
+    left: 0; 
+    transform: translate(-50%, -50%);
+    width: 120px; 
+    height: 120px; 
+    z-index: 5;
+  
+  
+}
+.login-box h1 {
+  margin-bottom: 10px;
+  text-align: center;
+}

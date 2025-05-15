@@ -28,6 +28,8 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background: url('https://i.pinimg.com/originals/c0/30/9e/c0309e53f20159b1a864d067b7bb81cc.gif') no-repeat center center fixed;
+  background-size: cover;
 }
 
 h1 {
@@ -60,7 +62,7 @@ button:focus-visible {
     background-color: #ffffff;
   }
   a:hover {
-    color: #747bff;
+    color: #bcff74;
   }
   button {
     background-color: #f9f9f9;
