@@ -43,4 +43,4 @@ npm run de
 
 
 ##🎓 Créditos
-Feito com 💙 por Anna Beatriz, orientado por Luan Oliveira.
+Feito 🥨 por Anna Beatriz, orientado por Luan Oliveira.
